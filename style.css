@@ -1,0 +1,54 @@
+section {
+    border-radius: 0% 30% 40% 0%;
+    background-color: rgb(240, 135, 116);
+}
+
+#recipe_image_id {
+    width: 150;
+    height: 150px;
+    border-radius: 0% 15% 15% 15%;
+}
+
+#recipe_image_id:hover {
+    opacity: 0.5;
+}
+
+p,
+ul,
+li {
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+li {
+    list-style: square;
+}
+
+span {
+    font-weight: bold;
+    color: grey;
+}
+
+.description {
+    font-size: 20px;
+}
+
+a {
+    color: seagreen;
+}
+
+.time_req {
+    font-weight: bold;
+}
+
+.checked {
+    color: orange;
+}
+
+.footer_text {
+    display: inline-block;
+}
+
+.footer span {
+    font-weight: lighter;
+}
